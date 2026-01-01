@@ -128,3 +128,6 @@ Changes will be reflected on this page with a revised date.
 For questions or concerns, contact:
 
 📧 **sixtyroll.dev@gmail.com**
+
+© 2026 SixtyRoll. All rights reserved.
+
