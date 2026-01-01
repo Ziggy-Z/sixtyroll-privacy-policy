@@ -90,6 +90,33 @@ You may:
 Reasonable safeguards are used to protect information; however, no system can guarantee absolute security.
 
 ---
+## 8. Child Safety and Protection
+
+### Age Restrictions
+SixtyRoll is intended for users 18 years and older. We do not knowingly collect information from children under 13.
+
+### No Social Features
+Our app does not include:
+- Chat or messaging features
+- User-generated content
+- Photo or video sharing
+- Social profiles or friend connections
+- Any features that facilitate communication between users
+
+### Data Minimization
+We only collect the minimum data needed for app functionality:
+- GPS location (for speed measurement)
+- User-provided name (for session identification)
+- Temporary session data (automatically deleted)
+
+### CSAE Compliance
+We maintain strict policies against child sexual abuse and exploitation:
+- No content sharing capabilities
+- No direct user-to-user communication
+- No profile creation or personal information display
+- Immediate removal of any reported violations
+
+SixtyRoll is a racing coordination tool with no social features, chat, messaging, or user-generated content. The app only displays participant names within private race sessions. We do not target children, require users to be 18+, and comply with all child safety regulations including COPPA and GDPR.
 
 ## 8. Policy Updates
 This Privacy Policy may be updated periodically.  
@@ -100,4 +127,4 @@ Changes will be reflected on this page with a revised date.
 ## 9. Contact
 For questions or concerns, contact:
 
-📧 **sixtyroll.app@gmail.com**
+📧 **sixtyroll.dev@gmail.com**
